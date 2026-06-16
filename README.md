@@ -1,0 +1,1 @@
+# aurazone-qa-automation
