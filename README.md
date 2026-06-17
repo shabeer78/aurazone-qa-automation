@@ -65,15 +65,41 @@ python test_aurazone.py
 
 ### Expected Output:
 ```
-✅ PASS | TC-001 Homepage Loads
-✅ PASS | TC-002 Search Functionality
-✅ PASS | TC-003 Products & Filters
-✅ PASS | TC-004 Navigation Menu
-✅ PASS | TC-005 Footer Links
+TEST 1 - Checking if Homepage Opens Correctly
 
-All 5 test cases completed!
+Page Title is: Aurazone - Premium Footwear
+
+PASS - Homepage opened correctly!
+TEST 2 - Checking if Search Works
+
+Typed Nike in search box
+
+Clicked Search button
+
+PASS - Search works! Nike products found!
+TEST 3 - Checking Products Page and Filters
+
+Products are visible on page
+
+Filters are visible on page
+
+PASS - Products page and filters working!
+TEST 4 - Checking Navigation Menu
+
+Clicked hamburger menu
+
+Menu items are visible
+
+PASS - Navigation menu opens correctly!
+TEST 5 - Checking Footer Links
+
+Scrolled to footer
+
+Found 5 out of 5 footer links
+
+PASS - Footer links are visible!
 ```
-
+ALL 5 TESTS COMPLETED!
 ---
 
 ## 📁 Project Structure
